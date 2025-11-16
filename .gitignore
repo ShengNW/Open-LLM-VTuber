@@ -78,3 +78,6 @@ mcp_servers.json
 .vscode/
 # Old / backup files
 *_old_*
+
+# local frontend backup directory
+/frontend_bak_2025-11-13_1953/
